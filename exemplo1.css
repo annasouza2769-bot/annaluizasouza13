@@ -1,0 +1,25 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+#retangulo_superior {
+width: 100%;
+height: 33.33vh;
+background-color: yellowgreen;
+}
+
+#retangulo_meio {
+ width: 100%;
+ height: 33.33vh;
+ background-color: red;
+}
+
+#retangulo_inferior {
+ width: 100%;
+ height: 33.33vh;
+ background-color: green;
+}
+
+
+
